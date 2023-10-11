@@ -12,7 +12,7 @@
       display: flex;
       justify-content: center;
       align-items: center;
-      background-color: #ffffff; /* Change the background color as needed */
+      background-color: #f0f0f0; /* Change the background color as needed */
     }
     #logo {
       max-width: 50%;
