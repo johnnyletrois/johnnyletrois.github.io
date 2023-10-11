@@ -27,6 +27,6 @@ To display a logo in the middle of the screen and dynamically resize it to fit t
   </style>
 </head>
 <body>
-  <img id="logo" src="assets/img//logo.png" alt="Casual Builder logo">
+  <img id="logo" src="logo.png" alt="Casual Builder logo">
 </body>
 </html>
