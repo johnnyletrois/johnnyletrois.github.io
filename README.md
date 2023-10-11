@@ -1,4 +1,4 @@
-## Logo Centered and Dynamically Resized
+## Casual Builder
 ### index.html
 
 <!DOCTYPE html>
