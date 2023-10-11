@@ -1,10 +1,3 @@
-## Logo Centered and Dynamically Resized
-
-To display a logo in the middle of the screen and dynamically resize it to fit the viewport, we'll use HTML and CSS.
-
-### index.html
-
-```html
 <!DOCTYPE html>
 <html>
 <head>
