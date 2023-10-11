@@ -1,3 +1,6 @@
+## Logo Centered and Dynamically Resized
+### index.html
+
 <!DOCTYPE html>
 <html>
 <head>
@@ -20,6 +23,6 @@
   </style>
 </head>
 <body>
-  <img id="logo" src="logo.png" alt="Casual Builder logo">
+  <img id="logo" src="/logo.png" alt="Casual Builder logo">
 </body>
 </html>
