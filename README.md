@@ -12,11 +12,11 @@
       display: flex;
       justify-content: center;
       align-items: center;
-      background-color: #f0f0f0; /* Change the background color as needed */
+      background-color: #ffffff; /* Change the background color as needed */
     }
     #logo {
-      max-width: 100%;
-      max-height: 100%;
+      max-width: 50%;
+      max-height: 50%;
       width: auto;
       height: auto;
     }
